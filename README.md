@@ -1,5 +1,9 @@
 # fish-plugin-peco_select_repository
 
+## Prerequisites
+
+- ghq
+
 ## Installation
 
 ```
