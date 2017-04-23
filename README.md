@@ -1,4 +1,4 @@
-# fish-plugin-peco_select_repository
+# peco_select_repository
 
 ## Prerequisites
 
@@ -7,7 +7,7 @@
 ## Installation
 
 ```
-$ fisher 5t111111/fish-plugin-peco_select_repository
+$ fisher unreliable-angels/peco_select_repository
 ```
 
 ## Example key binding
